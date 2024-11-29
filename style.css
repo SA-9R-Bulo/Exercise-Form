@@ -1,0 +1,19 @@
+body { background-color:steelblue; }
+
+
+
+
+
+.container {
+
+	background-color: yellow;
+
+padding: 15px;
+
+box-shadow: 7px 7px 19px 11px rgba(0,0,0,0.76);
+-webkit-box-shadow: 7px 7px 19px 11px rgba(0,0,0,0.76);
+-moz-box-shadow: 7px 7px 19px 11px rgba(0,0,0,0.76);
+
+          animation-duration: 1.5s
+}
+
